@@ -1,2 +1,2 @@
 # IPPolako
-Opis
+Opis projekta
