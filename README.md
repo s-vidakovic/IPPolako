@@ -1,3 +1,3 @@
 # IPPolako
 Opis projekta
-Novi opis
+Novi opis ponovo
